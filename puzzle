@@ -1,0 +1,95 @@
+{
+    "puzzle": [{
+        "tw_name": "炭火肉食披薩",
+        "en_name": "Meat Lover's",
+        "contain": "pig chick",
+        "L-sizes": 329,
+        "S-sizes": 229
+    }, {
+        "tw_name": "美式嗆司臘腸披薩",
+        "en_name": "Jalapeno Sausage",
+        "contain": "pig chili",
+        "L-sizes": 329,
+        "S-sizes": 229
+    }, {
+        "tw_name": "龍蝦沙拉披薩",
+        "en_name": "Lobster Salad Pizza",
+        "contain": "fish chili",
+        "L-sizes": 329
+
+    }, {
+        "tw_name": "總匯披薩",
+        "en_name": "Supreme",
+        "contain": "pig",
+        "L-sizes": 329,
+        "S-sizes": 229
+    }, {
+        "tw_name": "墨西哥嗆辣披薩",
+        "en_name": "Mexican(Spicy)Pizza",
+        "contain": "pig chili_double",
+        "L-sizes": 329,
+        "S-sizes": 229
+    }, {
+        "tw_name": "西西里燻雞披薩",
+        "en_name": "House Smoked Chicken",
+        "contain": "chick",
+        "L-sizes": 329,
+        "S-sizes": 229
+    }, {
+        "tw_name": "海鮮披薩",
+        "en_name": "Seafood",
+        "contain": "fish",
+        "L-sizes": 329,
+        "S-sizes": 229
+    }, {
+        "tw_name": "地中海漁夫披薩",
+        "en_name": "Mediterranean Fisherman",
+        "contain": "fish",
+        "L-sizes": 329,
+        "S-sizes": 229
+    }, {
+        "tw_name": "夏威夷披薩",
+        "en_name": "Hawaiian",
+        "contain": "pig",
+        "L-sizes": 329,
+        "S-sizes": 229
+    }, {
+        "tw_name": "蔬菜披薩 (奶素)",
+        "en_name": "Vegetarian",
+        "contain": "veg",
+        "L-sizes": 329,
+        "S-sizes": 229
+    }, {
+        "tw_name": "蘋果肉桂披薩",
+        "en_name": "Apple Cinnamon Pizza",
+        "contain": "veg",
+        "L-sizes": 329,
+        "S-sizes": 229
+    }, {
+        "tw_name": "義式海陸豪華披薩",
+        "en_name": "Deluxe",
+        "contain": "pig chicken fish",
+        "L-sizes": 329,
+        "S-sizes": 229
+    }, {
+        "tw_name": "洋食黃金脆雞披薩",
+        "en_name": "Popcorn Chicken",
+        "contain": "chicken chili",
+        "L-sizes": 329,
+        "S-sizes": 229
+    }, {
+        "tw_name": "波隆那臘腸披薩",
+        "en_name": "Bologna Sausage",
+        "contain": "pig",
+        "L-sizes": 329,
+        "S-sizes": 229
+    }, {
+        "tw_name": "日式燒肉披薩",
+        "en_name": "Japanese BBQ pork",
+        "contain": "pig",
+        "L-sizes": 329,
+        "S-sizes": 229
+    }]
+
+
+}
