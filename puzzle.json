@@ -26,7 +26,7 @@
     }, {
         "tw_name": "墨西哥嗆辣披薩",
         "en_name": "Mexican(Spicy)Pizza",
-        "contain": "pig chili_double",
+        "contain": "pig chili chili",
         "L-sizes": 329,
         "S-sizes": 229
     }, {
