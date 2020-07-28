@@ -1,4 +1,4 @@
-{
+let app = {
     "puzzle": [{
         "tw_name": "炭火肉食披薩",
         "en_name": "Meat Lover's",
@@ -173,7 +173,7 @@
 
     }],
     "fried_chicken": [{
-        "tw_name": "咔滋雞腿桶(辣) ",
+        "tw_name": "咔滋雞腿桶(辣)",
         "en_name": "Fried Chicken Leg",
         "contain": "chicken chilli",
         "string1": "9's 外帶特價$434 ;外送原價$486",
@@ -193,17 +193,17 @@
     }],
     "featured_food": [{
         "tw_name": "總匯紅醬燉飯+迷你裝飲料",
-        "en_name": "Fried Chicken",
+        "en_name": "",
         "contain": "pig",
         "string1": "搭配迷你裝飲料 優惠價$109元(原價154元)"
     }, {
-        "tw_name": "義式炸雞超值桶",
-        "en_name": "Fried Chicken",
+        "tw_name": "奶油海鮮燉飯+迷你裝飲料",
+        "en_name": "",
         "contain": "fish",
         "string1": "搭配迷你裝飲料 優惠價$109元(原價154元)"
     }, {
-        "tw_name": "義式炸雞超值桶",
-        "en_name": "Fried Chicken",
+        "tw_name": "經典紅醬燻雞焗麵+迷你瓶裝飲料桶",
+        "en_name": "",
         "contain": "chicken",
         "string1": "搭配迷你裝飲料 優惠價$109元(原價154元)"
     }]
