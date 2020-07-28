@@ -1,4 +1,4 @@
-let app = {
+ {
     "puzzle": [{
         "tw_name": "炭火肉食披薩",
         "en_name": "Meat Lover's",
@@ -175,7 +175,7 @@ let app = {
     "fried_chicken": [{
         "tw_name": "咔滋雞腿桶(辣)",
         "en_name": "Fried Chicken Leg",
-        "contain": "chicken chilli",
+        "contain": "chicken chili",
         "string1": "9's 外帶特價$434 ;外送原價$486",
         "string2": "6's 外帶特價$299 ;外送原價$324"
     }, {
@@ -187,7 +187,7 @@ let app = {
     }, {
         "tw_name": "義式炸雞超值桶",
         "en_name": "Fried Chicken",
-        "contain": "chicken chilli",
+        "contain": "chicken chili",
         "string1": "6塊(6's):外帶價$$269元 / 外送原價$294元",
         "string2": "9塊(9's):外帶價$$389元 / 外送原價$441元"
     }],
