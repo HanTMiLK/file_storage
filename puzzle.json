@@ -105,10 +105,10 @@
         }, {
             "tw_name": "德式帶骨香腸",
             "en_name": "Pork Sausage With Rib",
-            "contain": "pig ",
+            "contain": "pig",
             "two-sizes": 79
         }, {
-            "tw_name": "炭火肉食披薩 ",
+            "tw_name": "炭火肉食披薩",
             "en_name": "Meat Lover's",
             "contain": "pig chicken",
             "L-sizes": 329,
@@ -136,7 +136,7 @@
 
     ],
     "mini_puzzle": [{
-        "tw_name": "MINI 總匯披薩 ",
+        "tw_name": "MINI 總匯披薩",
         "en_name": "MINI Supreme",
         "contain": "pig",
         "size": 79
